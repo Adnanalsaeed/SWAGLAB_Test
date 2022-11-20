@@ -7,7 +7,7 @@ public class Home_Page {
 
 	private static final String Else = null;
 
-	public static void main(String[] args) throws InterruptedException {
+	public static void main(String[] args) throws InterruptedException  {
 		// TODO Auto-generated method stub
 		System.setProperty("webdriver.chrome.driver", "D:\\ChromeDriver\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
